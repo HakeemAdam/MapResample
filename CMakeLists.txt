@@ -10,7 +10,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Explicitly set Houdini paths
-set(HFS "C:/Program Files/Side Effects Software/Houdini 20.5.278")
+set(HFS "C:/Program Files/Side Effects Software/Houdini 20.5.487")
 set(Houdini_PATH ${HFS})
 set(Houdini_DIR ${Houdini_PATH}/toolkit/cmake)
 
